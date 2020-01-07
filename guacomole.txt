@@ -6,3 +6,4 @@ garlic
 salt
 sugar
 tomatoes
+jalapenos
